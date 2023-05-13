@@ -1,0 +1,11 @@
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\bin\Debug\WindowsFormsApp-Zar Atma Oyunu.exe.config
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\bin\Debug\WindowsFormsApp-Zar Atma Oyunu.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\bin\Debug\WindowsFormsApp-Zar Atma Oyunu.pdb
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp-Zar Atma Oyunu.csproj.AssemblyReference.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp-Zar Atma Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp_Zar_Atma_Oyunu.Form1.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp_Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp-Zar Atma Oyunu.csproj.GenerateResource.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp-Zar Atma Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp-Zar Atma Oyunu.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp-Zar Atma Oyunu\WindowsFormsApp-Zar Atma Oyunu\obj\Debug\WindowsFormsApp-Zar Atma Oyunu.pdb
